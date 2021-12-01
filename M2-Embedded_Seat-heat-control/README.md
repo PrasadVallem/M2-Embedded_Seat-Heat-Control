@@ -12,15 +12,15 @@
 * All this opeartion is automatic and also temperature range is transmitted to serial output.
 
 
-[![Code Quality Score](https://www.code-inspector.com/project/28785/score/svg)
  
- .[![code quality badge](https://www.code-inspector.com/project/28785/status/svg) 
+[Code Inspector](https://app.codiga.io/public/project/30177/M2-Embedded_Seat-Heat-Control/dashboard)
 
+[Code Inspector Score](https://api.codiga.io/project/30177/score/svg)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c5dd67bb2c6a4cea8c788baabb4ea5dd)](https://www.codacy.com/gh/Jyothi959/Embedded-C_Casestudy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jyothi959/Embedded-C_Casestudy&amp;utm_campaign=Badge_Grade)
+[Code Inspector Badge](https://api.codiga.io/project/30177/status/svg)
+
+ [![Codacy Badge](https://app.codacy.com/gh/PrasadVallem/M2-Embedded_Seat-Heat-Control/dashboard)
 
  
 ![image](https://user-images.githubusercontent.com/89759853/133575039-3e8920ef-936b-44ad-91cf-148a67c476a2.png)
-
-
 
