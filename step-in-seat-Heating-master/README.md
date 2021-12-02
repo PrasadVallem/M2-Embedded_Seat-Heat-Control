@@ -1,4 +1,4 @@
-# step-in-seat-Heating
+# Heat Control
 [Code Inspector Score](https://api.codiga.io/project/30184/score/svg)
 
 [Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)
