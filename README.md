@@ -24,8 +24,6 @@
 ## Functioning of Application
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
 ## CI and Code Quality
-[Code Inspector Score](https://api.codiga.io/project/30184/score/svg)
+[![Code Inspector Score](https://api.codiga.io/project/30184/score/svg)]
 
-[Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)
-
-[Codacy Badge](https://app.codacy.com/project/badge/Grade/17a9512fbedb4866aa9bc784b87e1597)
+[![Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)]
