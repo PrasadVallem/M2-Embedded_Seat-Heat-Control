@@ -5,7 +5,7 @@
 |:--:|:--:|
 |![ON](https://user-images.githubusercontent.com/62166597/115904289-3d88a080-a482-11eb-8dac-4baad5d98b64.PNG)|![OFF](https://user-images.githubusercontent.com/62166597/115904238-2e095780-a482-11eb-99fa-67ae25f4005d.PNG)|
 ## Activity_2
-## If both the above conditions are true, then input analog temperature readings are converted into digital values.
+## If both the above conditions are true, then input analog temperature readings are converted into digital values
 ![ADC](https://user-images.githubusercontent.com/85540441/127325146-e45f0d5b-9173-4669-bcef-7cc735d272af.png)
 ## Activity_3
 ## Using PWM the digital values are shown in Oscilloscope
@@ -20,11 +20,7 @@
 ![serial communication](https://user-images.githubusercontent.com/85540441/127324544-94917683-705e-4df5-8333-6ec753d91eb4.png)
 ## Functioning of Application
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
-
-
-
 ## CI and Code Quality
-
 [Code Inspector Score](https://api.codiga.io/project/30184/score/svg)
 
 [Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)
