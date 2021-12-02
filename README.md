@@ -1,7 +1,4 @@
 ## Seat Heat Control 
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df06a422335c4f9fb9bf745d18ca069d)](https://app.codacy.com/gh/PrasadVallem/M2-Embedded_Seat-Heat-Control?utm_source=github.com&utm_medium=referral&utm_content=PrasadVallem/M2-Embedded_Seat-Heat-Control&utm_campaign=Badge_Grade_Settings)
-
 ## Activity_1
 ## If the person sit in the car seat then the ButtonSensor activate and if the person turns ON the heater then LED Glows
 |ON|OFF|
@@ -27,3 +24,5 @@
 [![Code Inspector Score](https://api.codiga.io/project/30184/score/svg)]
 
 [![Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)]
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df06a422335c4f9fb9bf745d18ca069d)](https://app.codacy.com/gh/PrasadVallem/M2-Embedded_Seat-Heat-Control?utm_source=github.com&utm_medium=referral&utm_content=PrasadVallem/M2-Embedded_Seat-Heat-Control&utm_campaign=Badge_Grade_Settings)
