@@ -21,8 +21,8 @@
 ## Functioning of Application
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
 ## CI and Code Quality
-[![Code Inspector Score](https://api.codiga.io/project/30184/score/svg)]
+![Code Inspector Score](https://api.codiga.io/project/30184/score/svg)]
 
-[![Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)]
+![Code Inspector Badge](https://api.codiga.io/project/30184/status/svg)]
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df06a422335c4f9fb9bf745d18ca069d)](https://app.codacy.com/gh/PrasadVallem/M2-Embedded_Seat-Heat-Control?utm_source=github.com&utm_medium=referral&utm_content=PrasadVallem/M2-Embedded_Seat-Heat-Control&utm_campaign=Badge_Grade_Settings)
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/df06a422335c4f9fb9bf745d18ca069d)](https://app.codacy.com/gh/PrasadVallem/M2-Embedded_Seat-Heat-Control?utm_source=github.com&utm_medium=referral&utm_content=PrasadVallem/M2-Embedded_Seat-Heat-Control&utm_campaign=Badge_Grade_Settings)
